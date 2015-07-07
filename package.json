@@ -1,0 +1,23 @@
+{
+  "name": "react-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Note.js",
+  "scripts": {
+    "start": "httpster -p 4321 & open http://localhost:4321"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanBlakeman/react-play.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanBlakeman/react-play/issues"
+  },
+  "homepage": "https://github.com/DanBlakeman/react-play",
+  "dependencies": {
+    "httpster": "^1.0.1",
+    "react-tools": "^0.13.3"
+  }
+}
